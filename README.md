@@ -1,4 +1,4 @@
-# Group 12 Project: The World of The Rich
+#Project: The World of The Rich
 
 We analyse the data of Top 500 billionaires of the world of the past 10 years.
 
